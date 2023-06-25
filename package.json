@@ -18,6 +18,6 @@
   "homepage": "https://github.com/decyjphr-org/ld-tester#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "launchdarkly-node-server-sdk": "^5.13.4"
+    "launchdarkly-node-server-sdk": "^7.0.1"
   }
 }
